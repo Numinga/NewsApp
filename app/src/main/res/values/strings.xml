@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="author_title">Author:</string>
+    <string name="source_title">Published by:</string>
+    <string name="published_date_title">Date of publication:</string>
+
+    <string name="long_pch">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus metus ex, semper a consequat quis, elementum eu orci. Donec a ex sem. Ut quis eros massa. Proin non posuere nisl, id congue est. Nulla justo metus, sollicitudin non ullamcorper et, fringilla id dui. Curabitur congue nisl id purus blandit posuere. Proin eu efficitur turpis, sed maximus ex. Proin ipsum velit, pretium sed mauris id, egestas egestas dolor. Etiam volutpat nisl vulputate nisl vehicula, vitae vulputate felis condimentum. Mauris ut tellus id augue feugiat auctor.Etiam ut diam pretium, facilisis nulla in, imperdiet velit. Sed ipsum nibh, pharetra sit amet justo laoreet, placerat hendrerit felis. Ut a massa vel lorem venenatis egestas. Integer lobortis lacus id lorem vehicula malesuada. Fusce mattis malesuada orci, id vehicula augue posuere sed. Nullam scelerisque eu turpis et sollicitudin. Morbi ultricies diam enim, quis pretium lacus pellentesque quis. Donec porttitor ornare arcu, sed rutrum diam pulvinar non.</string>
+</resources>
