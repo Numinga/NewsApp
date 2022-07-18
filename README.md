@@ -1,5 +1,7 @@
 # NewsApp
 
+Ivan Oliynyk
+
 APK file is uploaded into repository root, NewsApp.apk
 
 ViewPager - ArticleContainerFragment.kt
