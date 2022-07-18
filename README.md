@@ -1,6 +1,6 @@
 # NewsApp
 
-APK file is uploaded into repository root, newsapp.apk
+APK file is uploaded into repository root, NewsApp.apk
 
 ViewPager - ArticleContainerFragment.kt
 FragmentAdapter - ArticlesPagerAdapter.kt
